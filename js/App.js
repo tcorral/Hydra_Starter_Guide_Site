@@ -1,1 +1,6 @@
-// Application Javascript code goes here
+(function (win)
+{
+    'use strict';
+    // Define the namespace
+    window.App = {};
+}(window));
